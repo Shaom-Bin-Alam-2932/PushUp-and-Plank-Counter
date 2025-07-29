@@ -10,7 +10,6 @@ This Python project uses your **device camera** to:
 * **Measure plank hold time** using body alignment detection.
 * Show **live count and timer** on your webcam feed for motivation.
 
-It is beginner-friendly and practical for **portfolio, GitHub, and LinkedIn**.
 
 ---
 
